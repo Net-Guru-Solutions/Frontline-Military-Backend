@@ -52,8 +52,5 @@
   },
   "engines": {
     "node": ">=20"
-  },
-  "resolutions": {
-    "@medusajs/admin-vite-plugin": "0.0.2-snapshot-20241016062841"
   }
 }
